@@ -2,7 +2,7 @@
 
 <h2 align="center">A Passionate Frontend Developer</h2>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainanmol744&label=Profile%20views&color=0e75b6&style=flat" alt="jainanmol744" /> </p>
 
 <h3 align="left">💁‍♂️ About me: </h3>
@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **Clubhouse Clone**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Node.js, express and MongoDB**
 
-- 💬 Ask me about **React,JS,ES6,HTML5,CSS3**
+- 💬 Ask me about **Frontend Development**
 
 - 📄 Know about my experiences <a href ="https://drive.google.com/file/d/11KjQ9hiSQgx6oIiyva4zsdyCCQqqTXSF/view?usp=sharing">My Resume</a>
 
