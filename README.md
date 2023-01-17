@@ -2,7 +2,7 @@
 
 <h2 align="center">A Passionate Frontend Developer</h2>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="thoughtworks-gif_dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainanmol744&label=Profile%20views&color=0e75b6&style=flat" alt="jainanmol744" /> </p>
 
 <h3 align="left">💁‍♂️ About me: </h3>
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Frontend Development**
 
-- 📄 Know about my experiences <a href ="https://drive.google.com/file/d/11KjQ9hiSQgx6oIiyva4zsdyCCQqqTXSF/view?usp=sharing">My Resume</a>
+- 📄 Know about my experiences <a href ="https://drive.google.com/file/d/1otU16wModEYj7BwR6kgEldP_NQEURTJM/view?usp=share_link">My Resume</a>
 
 - ⚡ Fun fact **Food and Music🎵 are the reasons to live**
 
