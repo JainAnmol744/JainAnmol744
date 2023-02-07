@@ -20,7 +20,7 @@
 
 - 🤓 Always ready to learn new things.
 
-- Check out my Portfolio Website to know more about me - <a href ="https://anmolj-portfolio.vercel.app" target="_blank">Portfolio</a>
+- Check out my Website to know more about me - <a href ="https://anmolj-portfolio.vercel.app" target="_blank">https://anmoljain.vercel.app/</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
