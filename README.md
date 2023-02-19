@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Frontend Development**
 
-- 📄 Know about my experiences <a href ="https://drive.google.com/file/d/1ZNlw6Egwr8VG_Km63Uj146ycO5VacO2I/view?usp=share_link">My Resume</a>
+- 📄 Know about my experiences <a href ="https://drive.google.com/file/d/1ZNlw6Egwr8VG_Km63Uj146ycO5VacO2I/view">My Resume</a>
 
 - ⚡ Fun fact **Food and Music🎵 are the reasons to live**
 
